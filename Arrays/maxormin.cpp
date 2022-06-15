@@ -39,5 +39,5 @@ int main(){
 
     cout<<"maximum number is "<<getmax(arr,n);
     cout<<"minumun number is "<<getmin(arr,n);
-    
 }
+
