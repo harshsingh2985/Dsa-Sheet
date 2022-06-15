@@ -24,6 +24,14 @@ int main(){
     int n=15;
     pritingarrays(third,15);
 
+    // taking input in the arrays elements
+    for(int i=0;i<n;i++){
+        cin>>arr[i];
+
+    }
+    
+    
+
 
 
 
